@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">💼 Atualmente trabalho no CRA-MG<br>📚 PUC-MG - Sistemas de informação</p>
+<p align="left">💼 Atualmente trabalho na Netzero<br>📚 PUC-MG - Sistemas de informação</p>
 
 ###
 
