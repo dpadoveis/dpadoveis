@@ -8,6 +8,7 @@ I work with data engineering — building the pipelines, databases and models th
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Palantir Foundry](https://img.shields.io/badge/Palantir_Foundry-101113?style=flat&logo=palantir&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
@@ -22,4 +23,4 @@ I work with data engineering — building the pipelines, databases and models th
 ## Connect
 
 - LinkedIn: [in/diogopad](https://linkedin.com/in/diogopad)
-- Email: diogo.padoveis@netzero.green
+- Email: diogopadoveis@gmail.com
